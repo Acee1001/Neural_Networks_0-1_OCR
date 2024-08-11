@@ -4,7 +4,7 @@ This was a workshop conducted under IEEE SIES GST, Foucuses on understanding the
 ## Single Neuron Output:
 $$ \text{neuron output} = \mathbf{input} \cdot \mathbf{weight} + bias $$
 
-## Compute Multiple Neurons at once, also known as a layer of neurons.
+## Computing Multiple Neurons at once, also known as a layer of neurons.
 
 $$ \text{output} = \sum_{i=0}^{n} (\text{input}_i \cdot \text{weight}_i) + \text{biases} $$
 
